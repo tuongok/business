@@ -92,7 +92,7 @@
 }
 
 .section2 {
-    background-image: url("/image/banner-bg.png");
+    background-image: url("../img/banner1-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -183,7 +183,7 @@
     margin-bottom: 100px;
 }
 .section6{
-    background-image: url("/projectmini2/anhtuong/assets/img/work-process-bg.png");
+    background-image: url("../img/banner2-bg.png");
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
